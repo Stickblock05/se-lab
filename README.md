@@ -1,4 +1,4 @@
-![Maven Build](https://github.com/Stickblock05/se-lab/blob/87c2765fcc2cf8e6ad8700772f9e4ec922a3f152/.github/workflows/maven.yml)
+![Maven Build](https://github.com/github/docs/actions/workflows/maven.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SE Spaceship
 
