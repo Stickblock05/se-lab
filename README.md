@@ -1,4 +1,5 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Maven Build](https://github.com/Stickblock05/se-lab/blob/87c2765fcc2cf8e6ad8700772f9e4ec922a3f152/.github/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
